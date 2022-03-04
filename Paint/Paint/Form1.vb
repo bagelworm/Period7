@@ -11,4 +11,8 @@
     Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click
         b = Brushes.Orange
     End Sub
+
+    Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PictureBox4.Click
+        b = Brushes.Yellow
+    End Sub
 End Class
